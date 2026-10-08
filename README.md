@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Abdulkareem 👋
 
-<!--
-**aboodbargash373-png/aboodbargash373-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering Student | Python & AI Agent Developer
 
-Here are some ideas to get you started:
+- 🔭 Working on: **AI Job Search Agent** using CrewAI & Gemini API.
+- 🌱 Learning & Mastering: Python, SQL, Machine Learning, and Multi-Agent Systems.
+- 💬 Ask me about: AI Agents, Python development, and Database Management.
+- 📫 How to reach me: aboodbargash373@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **AI Frameworks:** CrewAI, Gemini API
+- **Developer Tools:** VS Code, Git, GitHub
