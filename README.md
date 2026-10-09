@@ -8,13 +8,14 @@ AI Engineering Student | Python & AI Agent Developer
 - 📫 How to reach me: aboodbargash373@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkareem-bargash-913645289)
-<a href="https://github.com/aboodbargash373-png/aboodbargash373-png/blob/main/Abdulkareem_Bargash_CV_Perfect_OnePage.pdf">
-  <p align="left">
-    <b style="background-color:#0077B5; color:white; padding:8px 16px; border-radius:5px; display:inline-block;">
-      📄 RESUME / CV
-    </b>
-  </p>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdulkareem-bargash" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aboodbargash373-png/aboodbargash373-png/blob/main/Abdulkareem_Bargash_CV_Perfect_OnePage.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_RESUME_/_CV-100000?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ---
 
