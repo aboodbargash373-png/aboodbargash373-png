@@ -6,12 +6,13 @@ AI Engineering Student | Python & AI Agent Developer
 - 🌱 Learning & Mastering: Python, SQL, Machine Learning, and Multi-Agent Systems.
 - 💬 Ask me about: AI Agents, Python development, and Database Management.
 - 📫 How to reach me: aboodbargash373@gmail.com
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aboodbargash373-png/aboodbargash373-png/blob/main/Abdulkareem_Bargash_CV_Perfect_OnePage.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_RESUME_/_CV-100000?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
-  </a>
-</p>
+ <a href="https://www.linkedin.com/in/abdulkareem-bargash-913645289">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/aboodbargash373-png/aboodbargash373-png/blob/main/Abdulkareem_Bargash_CV_Perfect_OnePage.pdf">
+  <img src="https://img.shields.io/badge/RESUME_/_CV-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
  
 ---
 
